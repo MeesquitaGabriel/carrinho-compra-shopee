@@ -1,0 +1,15 @@
+{
+  "name": "shopee-cart-node",
+  "version": "1.0.0",
+  "description": "Carrinho de Compras da Shopee com Node.js (DIO)",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
